@@ -1,0 +1,18 @@
+.navbar-Container{
+    background-color: #292E40;
+}
+
+.navbar-Container a {
+    color: #ffffff;
+    padding-bottom: 10px;
+}
+
+.navIcons{
+justify-content: left;
+width: 27px;
+height: 27px;
+left: 0px;
+top: 5.700004577636719px;
+border-radius: 4px;
+
+}
